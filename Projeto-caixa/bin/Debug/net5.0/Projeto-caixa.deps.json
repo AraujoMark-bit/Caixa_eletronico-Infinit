@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Projeto-caixa/1.0.0": {
+        "runtime": {
+          "Projeto-caixa.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Projeto-caixa/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

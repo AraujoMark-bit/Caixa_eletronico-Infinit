@@ -1,0 +1,16 @@
+C:\Temp\projetosC#\Projeto-caixa\Projeto-caixa\bin\Debug\net5.0\Projeto-caixa.exe
+C:\Temp\projetosC#\Projeto-caixa\Projeto-caixa\bin\Debug\net5.0\Projeto-caixa.deps.json
+C:\Temp\projetosC#\Projeto-caixa\Projeto-caixa\bin\Debug\net5.0\Projeto-caixa.runtimeconfig.json
+C:\Temp\projetosC#\Projeto-caixa\Projeto-caixa\bin\Debug\net5.0\Projeto-caixa.runtimeconfig.dev.json
+C:\Temp\projetosC#\Projeto-caixa\Projeto-caixa\bin\Debug\net5.0\Projeto-caixa.dll
+C:\Temp\projetosC#\Projeto-caixa\Projeto-caixa\bin\Debug\net5.0\ref\Projeto-caixa.dll
+C:\Temp\projetosC#\Projeto-caixa\Projeto-caixa\bin\Debug\net5.0\Projeto-caixa.pdb
+C:\Temp\projetosC#\Projeto-caixa\Projeto-caixa\obj\Debug\net5.0\Projeto-caixa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Temp\projetosC#\Projeto-caixa\Projeto-caixa\obj\Debug\net5.0\Projeto-caixa.AssemblyInfoInputs.cache
+C:\Temp\projetosC#\Projeto-caixa\Projeto-caixa\obj\Debug\net5.0\Projeto-caixa.AssemblyInfo.cs
+C:\Temp\projetosC#\Projeto-caixa\Projeto-caixa\obj\Debug\net5.0\Projeto-caixa.csproj.CoreCompileInputs.cache
+C:\Temp\projetosC#\Projeto-caixa\Projeto-caixa\obj\Debug\net5.0\Projeto-caixa.dll
+C:\Temp\projetosC#\Projeto-caixa\Projeto-caixa\obj\Debug\net5.0\ref\Projeto-caixa.dll
+C:\Temp\projetosC#\Projeto-caixa\Projeto-caixa\obj\Debug\net5.0\Projeto-caixa.pdb
+C:\Temp\projetosC#\Projeto-caixa\Projeto-caixa\obj\Debug\net5.0\Projeto-caixa.genruntimeconfig.cache
+C:\Temp\projetosC#\Projeto-caixa\Projeto-caixa\obj\Debug\net5.0\Projeto-caixa.csproj.AssemblyReference.cache
